@@ -1,3 +1,4 @@
+
 Spring Boot with Maven and Docker
 ========================
 Part of the blog post: http://blog.adaofeliz.com/2014/11/21/first-look-spring-boot-and-docker
@@ -30,3 +31,8 @@ Try it
 License
 --------------
 MIT
+=======
+dev
+===
+
+
